@@ -10,7 +10,7 @@ ________________________
 
 Rezig Mahdi,Yosra Bettaieb, Bouchnak Wael, Rim Zouiter
 
-big thank to https://github.com/theodorosploumis 
+big thanks to https://github.com/theodorosploumis 
 
 ---
 
@@ -319,8 +319,11 @@ phpmyadmin:
 ### Example: mysql cluster 
 
 https://en.wikipedia.org/wiki/MySQL_Cluster
+
 https://hub.docker.com/r/h3nrik/mysql-cluster/
+
 https://github.com/g17/MySQL-Cluster.git
+
 https://dev.mysql.com/doc/refman/5.7/en/mysql-cluster-install-configuration.html
 
 ```
